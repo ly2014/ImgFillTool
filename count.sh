@@ -1,1 +1,1 @@
-find 目录名 *_gt.json | wc -l
+find 目录名 -name *_gt.json | wc -l
