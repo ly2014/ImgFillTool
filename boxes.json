@@ -1,0 +1,13 @@
+{
+    "boxes": 
+    [
+        {
+            "name": "box_a",
+            "rectangle": {"left_top": [0, 10], "right_bottom": [200, 300]}
+        },
+        {
+            "name": "box_b",
+            "rectangle": {"left_top": [100, 100], "right_bottom": [200, 300]}
+        }
+    ]
+}
